@@ -1,7 +1,7 @@
 # SQL-Comic-Book-Database
 
 
-This repository contains the files and resources for the Comic Book Database project, developed as part of the ISE 305 course. The project aims to provide a platform for comic book enthusiasts to manage their collections and access detailed information on titles, issues, authors, characters, and publishers.
+This repository contains the files and resources for the Comic Book Database project, developed as part of the ISE 305 course at Stony Brook University. The project aims to provide a platform for comic book enthusiasts to manage their collections and access detailed information on titles, issues, authors, characters, and publishers.
 
 ## Project Overview
 
